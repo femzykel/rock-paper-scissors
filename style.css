@@ -1,0 +1,37 @@
+body {
+    background-image: url(https://thumbs.gfycat.com/RegalAssuredGossamerwingedbutterfly-size_restricted.gif);
+    /* background-position: 80%; */
+ 
+  }
+
+  .container {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    padding-top: 450px;
+  }
+  
+  .container .btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #f1f1f1;
+    color: black;
+    font-size: 16px;
+    padding: 16px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .container .btn:hover {
+    background-color: black;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+
+  
